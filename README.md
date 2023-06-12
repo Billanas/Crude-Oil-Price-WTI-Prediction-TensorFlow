@@ -17,7 +17,7 @@ The predictive model utilizes a deep learning approach, employing a neural netwo
 To use this project, follow these steps:
 
 Clone the repository to your local machine.
-Install Python, TensorFlow, Pandas, NumPy, Matplotlib, Jupyter Notebook (for running the provided notebook)
+Install Python, TensorFlow, Pandas, NumPy, Matplotlib, Jupyter Notebook (for running the provided notebook).
 Prepare your own dataset or use the provided example dataset.
 Execute the code in the Jupyter notebook or Python script provided.
 Explore the results and evaluate the performance of the model.
